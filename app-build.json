@@ -2,7 +2,7 @@
   "app": {
     "name": "encapsule-project",
     "description": "Encapsule.io web application based on @encapsule/holistic app platform latest for deployment on Digital Ocean.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "codename": "Simple test application.",
     "author": "Encapsule",
     "copyright": {
@@ -10,23 +10,23 @@
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "eWzGw_3uTcSjO_BwyncwPQ",
-    "buildSource": "9fc4ac74a76967d434d9a3d5cfbf89cea0012232",
-    "buildTime": 1643806377,
-    "buildDateISO": "2022-02-02T12:52:57.000Z"
+    "buildID": "YPrpteCmRRqlG3IvoY0AtQ",
+    "buildSource": "b0cfd9711c36b7ea5460ea4125de79c36e91488e",
+    "buildTime": 1643837717,
+    "buildDateISO": "2022-02-02T21:35:17.000Z"
   },
   "platform": {
     "app": {
       "name": "holistic",
       "description": "@encapsule/holistic is a domain engineering toolkit for building distributed applications and interactive UX from reusable software models.",
-      "version": "0.2.9",
-      "codename": "firestorm",
+      "version": "0.3.0",
+      "codename": "snowpack",
       "author": "Encapsule",
       "license": "MIT",
-      "buildID": "T3fTnta3T4OVYQ0yfW-ilw",
+      "buildID": "CXQHM4B1RVWvGMWZ9sO_YA",
       "buildSource": "5a37946fd745a5eaf6de80fed332cd5112fb1e6f",
-      "buildTime": 1643674129,
-      "buildDateISO": "2022-02-01T00:08:49.000Z"
+      "buildTime": 1643831049,
+      "buildDateISO": "2022-02-02T19:44:09.000Z"
     },
     "data": {
       "name": "arccore",
