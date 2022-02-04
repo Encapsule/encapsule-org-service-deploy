@@ -11,9 +11,9 @@ _Encapsule Project is a quest to define a universal protocol for domain-specific
 # ![](ASSETS/encapsule-holistic-32x32.png)&nbsp;@encapsule/hrequest
 
 ```
-Package: @encapsule/hrequest v0.3.0-snowpack build ID "kXYEYew6Qg-rp1f_3mg2Cw"
+Package: @encapsule/hrequest v0.3.0-snowpack build ID "iUOoQlx2QzqMY64choMNPQ"
 Sources: @encapsule/holodev#5a37946fd745a5eaf6de80fed332cd5112fb1e6f
-Created: 2022-02-04T03:36:45.000Z // License: MIT
+Created: 2022-02-04T06:05:56.000Z // License: MIT
 Purpose: library // Environment: Node.js and Browser/HTML5
 ```
 
