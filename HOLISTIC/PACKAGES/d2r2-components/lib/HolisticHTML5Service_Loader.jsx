@@ -88,7 +88,7 @@ var factoryResponse = d2r2.ComponentFactory.request({
           var textColorMain = color(backgroundColor).darken(0.1).hex();
           var textColorMessage = "white";
           var textColorEnvironment = color(backgroundColor).darken(0.03).hex();
-          var textColorVersion = color(backgroundColor).darken(-0.2).hex();
+          var textColorVersion = color(backgroundColor).lighten(0.2).hex();
           var textColorVersionShadow = color(backgroundColor).darken(0.4).hex();
           flexContent.push( /*#__PURE__*/React.createElement("div", {
             key: makeKey(),
@@ -210,7 +210,7 @@ var factoryResponse = d2r2.ComponentFactory.request({
               fontSize: "2.75vw",
               color: textColorVersion,
               padding: "1vw",
-              textShadow: "-1px -1px 2px ".concat(textColorVersionShadow)
+              textShadow: "0px 0px 4px ".concat(textColorVersionShadow)
             }
           }, /*#__PURE__*/React.createElement("strong", null, "@", messageBody.appBuild.app.author, "/", messageBody.appBuild.app.name, " v", messageBody.appBuild.app.version, "-", messageBody.appBuild.app.codename), /*#__PURE__*/React.createElement("br", null), /*#__PURE__*/React.createElement("span", {
             style: {
@@ -242,7 +242,7 @@ var factoryResponse = d2r2.ComponentFactory.request({
               fontSize: "2.75vw",
               color: textColorVersion,
               padding: "1vw",
-              textShadow: "-1px -1px 2px ".concat(textColorVersionShadow)
+              textShadow: "0px 0px 4px ".concat(textColorVersionShadow)
             }
           }, /*#__PURE__*/React.createElement("strong", null, "@", messageBody.appBuild.platform.app.author, "/", messageBody.appBuild.platform.app.name, " v", messageBody.appBuild.platform.app.version, "-", messageBody.appBuild.platform.app.codename), /*#__PURE__*/React.createElement("br", null), /*#__PURE__*/React.createElement("span", {
             style: {
