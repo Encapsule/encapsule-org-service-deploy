@@ -1,11 +1,11 @@
 {
-  "appgen": "@encapsule/holistic v0.3.0 snowpack iUOoQlx2QzqMY64choMNPQ 5a37946fd745a5eaf6de80fed332cd5112fb1e6f 2022-02-04T06:05:56.000Z",
+  "appgen": "@encapsule/holistic v0.3.1 snowpack vkcKilw4QAKdxkKcouGCrA 9d44c4960bdd7e758f870e30499671719a6f4b67 2022-02-09T19:58:35.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-02-04T06:06:35.000Z",
-  "buildID": "UsPzDUS3Stavh9WKqsIttg",
-  "buildSource": "4f0a817177b5733406f2875cfc4b4b3373b99cde",
-  "buildTime": 1643954795,
-  "codename": "rockslide",
+  "buildDateISO": "2022-02-10T00:31:37.000Z",
+  "buildID": "1QFVIND3SIeR1zfK9cFpxQ",
+  "buildSource": "4de17d50afaecd9bc2d229a44cb782191e44af14",
+  "buildTime": 1644453097,
+  "codename": "setup2",
   "copyright": {
     "holder": "Encapsule",
     "year": 2022
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.4"
+  "version": "0.0.5"
 }

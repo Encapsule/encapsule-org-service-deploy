@@ -84,7 +84,7 @@ function _arrayLikeToArray(arr, len) {
 var userIdentityCookieName = "holistic-user-session";
 
 module.exports = function (request_) {
-  console.log("..... " + this.operationID + "::" + this.operationName);
+  console.log("..... " + this.filterDescriptor.operationID + "::" + this.filterDescriptor.operationName);
   var response = {
     error: null,
     result: undefined
