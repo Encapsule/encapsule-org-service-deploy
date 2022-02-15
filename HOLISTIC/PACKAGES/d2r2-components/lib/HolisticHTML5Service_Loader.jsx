@@ -88,13 +88,13 @@ var factoryResponse = d2r2.ComponentFactory.request({
           var textColorMain = color(backgroundColor).darken(0.1).hex();
           var textColorMessage = "white";
           var textColorEnvironment = color(backgroundColor).darken(0.03).hex();
-          var textColorVersion = color(backgroundColor).lighten(0.1).hex();
+          var textColorVersion = color(backgroundColor).lighten(0.2).hex();
           var textColorVersionShadow = color(backgroundColor).darken(0.2).hex();
           flexContent.push( /*#__PURE__*/React.createElement("div", {
             key: makeKey(),
             style: {
               fontFamily: "Play",
-              fontSize: "10vw",
+              fontSize: "8vw",
               fontWeight: "bold",
               color: textColorMain,
               paddingBottom: "1.3vw"
@@ -165,7 +165,7 @@ var factoryResponse = d2r2.ComponentFactory.request({
           }, /*#__PURE__*/React.createElement("div", {
             style: {
               fontFamily: "Play",
-              fontSize: "15vw",
+              fontSize: "6vw",
               color: textColorEnvironment
             }
           }, /*#__PURE__*/React.createElement("strong", null, messageBody.deploymentEnvironment))))); // App name / message / spinner
