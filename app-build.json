@@ -10,23 +10,23 @@
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "iiCXbD7jTuqzRrUgmFIVbA",
-    "buildSource": "2ee9297ecbc475204abb268541909ecb38f6a1d6",
-    "buildTime": 1644936225,
-    "buildDateISO": "2022-02-15T14:43:45.000Z"
+    "buildID": "JExFB7OlSoqKsFlt3lh7uw",
+    "buildSource": "bf9a7b886ddeced7e70b50d789bb7a317ef338d1",
+    "buildTime": 1645045879,
+    "buildDateISO": "2022-02-16T21:11:19.000Z"
   },
   "platform": {
     "app": {
       "name": "holistic",
       "description": "@encapsule/holistic is a domain engineering toolkit for building distributed applications and interactive UX from reusable software models.",
-      "version": "0.3.1",
+      "version": "0.3.3",
       "codename": "snowpack",
       "author": "Encapsule",
       "license": "MIT",
-      "buildID": "m6LSoCYBS3a8OStA-NSC2w",
-      "buildSource": "9d44c4960bdd7e758f870e30499671719a6f4b67",
-      "buildTime": 1644935561,
-      "buildDateISO": "2022-02-15T14:32:41.000Z"
+      "buildID": "t8PE1V9BSSOEiwphm0T6fQ",
+      "buildSource": "7e54d32437759b6c073a2442de6693c481cc0d03",
+      "buildTime": 1645044626,
+      "buildDateISO": "2022-02-16T20:50:26.000Z"
     },
     "data": {
       "name": "arccore",
