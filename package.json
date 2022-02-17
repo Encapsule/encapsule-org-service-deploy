@@ -1,11 +1,11 @@
 {
-  "appgen": "@encapsule/holistic v0.3.3 snowpack Q4dsolUbR5mCnIeotMotbw 7e54d32437759b6c073a2442de6693c481cc0d03 2022-02-17T03:20:16.000Z",
+  "appgen": "@encapsule/holistic v0.3.3 snowpack 6XoaGnEQQXSxrlm229GY9Q 3482c00e90451aad09732668d0833e152b6e378c 2022-02-17T16:23:50.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-02-17T03:49:19.000Z",
-  "buildID": "2ZfU0qzZSyuTv3xhrpwgAw",
-  "buildSource": "bf9a7b886ddeced7e70b50d789bb7a317ef338d1",
-  "buildTime": 1645069759,
-  "codename": "setup8",
+  "buildDateISO": "2022-02-17T17:12:12.000Z",
+  "buildID": "1cQnJY4uQw-jXMErS7cV7Q",
+  "buildSource": "1ee99b0c181990e5e3910e94a00052b951b82542",
+  "buildTime": 1645117932,
+  "codename": "setup9",
   "copyright": {
     "holder": "Encapsule",
     "year": 2022
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.8"
+  "version": "0.0.9"
 }
