@@ -2,18 +2,18 @@
   "app": {
     "name": "encapsule-project",
     "description": "Encapsule Project documentation and experiments website based on vLatest @encapsule/holistic that is deployed on Digital Ocean at https://encapsule.io.",
-    "version": "0.0.7",
-    "codename": "setup7",
+    "version": "0.0.8",
+    "codename": "setup8",
     "author": "Encapsule",
     "copyright": {
       "holder": "Encapsule",
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "JExFB7OlSoqKsFlt3lh7uw",
+    "buildID": "2ZfU0qzZSyuTv3xhrpwgAw",
     "buildSource": "bf9a7b886ddeced7e70b50d789bb7a317ef338d1",
-    "buildTime": 1645045879,
-    "buildDateISO": "2022-02-16T21:11:19.000Z"
+    "buildTime": 1645069759,
+    "buildDateISO": "2022-02-17T03:49:19.000Z"
   },
   "platform": {
     "app": {
@@ -23,10 +23,10 @@
       "codename": "snowpack",
       "author": "Encapsule",
       "license": "MIT",
-      "buildID": "t8PE1V9BSSOEiwphm0T6fQ",
+      "buildID": "Q4dsolUbR5mCnIeotMotbw",
       "buildSource": "7e54d32437759b6c073a2442de6693c481cc0d03",
-      "buildTime": 1645044626,
-      "buildDateISO": "2022-02-16T20:50:26.000Z"
+      "buildTime": 1645068016,
+      "buildDateISO": "2022-02-17T03:20:16.000Z"
     },
     "data": {
       "name": "arccore",
