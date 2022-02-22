@@ -397,7 +397,7 @@ var controllerAction = new holarchy.ControllerAction({
               apmBindingPath: request_.context.apmBindingPath // will be the holistic HTML5 service kernel process
 
             });
-          }, 1000);
+          }, 350);
           /*
           if (actResponse.error) {
               errors.push(actResponse.error);

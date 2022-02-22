@@ -1,10 +1,10 @@
 {
-  "appgen": "@encapsule/holistic v0.3.4 snowpack -1dnunoEQ8aUgOdFVoKGeQ a7a18705bd1f078c58c612c98d87f003e965b4ff 2022-02-17T21:59:13.000Z",
+  "appgen": "@encapsule/holistic v0.3.4 snowpack c9y9qEnHQf-RU4km3GThfQ 3dc5903a7448efde3cec0a50edad661456993836 2022-02-22T18:54:40.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-02-22T18:38:15.000Z",
-  "buildID": "JEAcBWg7RviAumA9XPHR1g",
+  "buildDateISO": "2022-02-22T18:55:33.000Z",
+  "buildID": "Jd9vE02-QWu-dJQeLaj1Vw",
   "buildSource": "9c50dca262d7ef16db4f934646eeafeef8ee185e",
-  "buildTime": 1645555095,
+  "buildTime": 1645556133,
   "codename": "setup10",
   "copyright": {
     "holder": "Encapsule",
