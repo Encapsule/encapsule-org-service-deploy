@@ -2,31 +2,31 @@
   "app": {
     "name": "encapsule-project",
     "description": "Encapsule Project documentation and experiments website based on vLatest @encapsule/holistic that is deployed on Digital Ocean at https://encapsule.io.",
-    "version": "0.0.9",
-    "codename": "setup9",
+    "version": "0.0.10",
+    "codename": "setup10",
     "author": "Encapsule",
     "copyright": {
       "holder": "Encapsule",
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "1cQnJY4uQw-jXMErS7cV7Q",
-    "buildSource": "1ee99b0c181990e5e3910e94a00052b951b82542",
-    "buildTime": 1645117932,
-    "buildDateISO": "2022-02-17T17:12:12.000Z"
+    "buildID": "JEAcBWg7RviAumA9XPHR1g",
+    "buildSource": "9c50dca262d7ef16db4f934646eeafeef8ee185e",
+    "buildTime": 1645555095,
+    "buildDateISO": "2022-02-22T18:38:15.000Z"
   },
   "platform": {
     "app": {
       "name": "holistic",
       "description": "@encapsule/holistic is a domain engineering toolkit for building distributed applications and interactive UX from reusable software models.",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "codename": "snowpack",
       "author": "Encapsule",
       "license": "MIT",
-      "buildID": "6XoaGnEQQXSxrlm229GY9Q",
-      "buildSource": "3482c00e90451aad09732668d0833e152b6e378c",
-      "buildTime": 1645115030,
-      "buildDateISO": "2022-02-17T16:23:50.000Z"
+      "buildID": "-1dnunoEQ8aUgOdFVoKGeQ",
+      "buildSource": "a7a18705bd1f078c58c612c98d87f003e965b4ff",
+      "buildTime": 1645135153,
+      "buildDateISO": "2022-02-17T21:59:13.000Z"
     },
     "data": {
       "name": "arccore",
