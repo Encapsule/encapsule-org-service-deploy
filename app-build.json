@@ -10,10 +10,10 @@
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "Jd9vE02-QWu-dJQeLaj1Vw",
+    "buildID": "fed8NdJHTuuvcIKG6B6HYw",
     "buildSource": "9c50dca262d7ef16db4f934646eeafeef8ee185e",
-    "buildTime": 1645556133,
-    "buildDateISO": "2022-02-22T18:55:33.000Z"
+    "buildTime": 1646081993,
+    "buildDateISO": "2022-02-28T20:59:53.000Z"
   },
   "platform": {
     "app": {
@@ -23,10 +23,10 @@
       "codename": "snowpack",
       "author": "Encapsule",
       "license": "MIT",
-      "buildID": "c9y9qEnHQf-RU4km3GThfQ",
+      "buildID": "xHMNnHnLR9C2v75Fsg7Tyw",
       "buildSource": "3dc5903a7448efde3cec0a50edad661456993836",
-      "buildTime": 1645556080,
-      "buildDateISO": "2022-02-22T18:54:40.000Z"
+      "buildTime": 1646081894,
+      "buildDateISO": "2022-02-28T20:58:14.000Z"
     },
     "data": {
       "name": "arccore",
