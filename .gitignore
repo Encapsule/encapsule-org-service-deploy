@@ -1,3 +1,17 @@
-*~
+// THIS FILE IS CODE-GENERATED
+// Encapsule holistic v0.3.4 "snowpack" Fmlkf8SvRYyvH7YDvW2xEg 3dc5903a7448efde3cec0a50edad661456993836
+//
 
-node_modules/
+/BUILD/
+/DISTS/
+
+# Node.js
+node_modules/*
+
+# emacs
+*~
+\#*
+
+*.log
+
+.DS_Store
