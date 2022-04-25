@@ -3,10 +3,10 @@
     "bugs": {
         "url": "https://github.com/Encapsule/holistic/issues"
     },
-    "buildID": "pEoAC2J8Tam4bOolRmMZOA",
+    "buildID": "ZXh60hHOSDCLp15IWZj6sQ",
     "buildSource": "3dc5903a7448efde3cec0a50edad661456993836",
-    "buildTime": 1647439467,
-    "codename": "snowpack",
+    "buildTime": 1650921452,
+    "codename": "snowmelt",
     "contributors": [
         {
             "name": "Chris Russell",
@@ -40,5 +40,5 @@
         "type": "git",
         "url": "git+https://github.com/Encapsule/holistic.git"
     },
-    "version": "0.3.4"
+    "version": "0.3.5"
 }
