@@ -3,9 +3,9 @@
     "bugs": {
         "url": "https://github.com/Encapsule/holistic/issues"
     },
-    "buildID": "ZXh60hHOSDCLp15IWZj6sQ",
+    "buildID": "q5C8_UzLS4WT2TVWrNsd7Q",
     "buildSource": "3dc5903a7448efde3cec0a50edad661456993836",
-    "buildTime": 1650921452,
+    "buildTime": 1652459444,
     "codename": "snowmelt",
     "contributors": [
         {
@@ -31,7 +31,7 @@
     "main": "metadata-store-constructor-factory.js",
     "name": "@encapsule/holism-metadata",
     "peerDependencies": {
-        "@encapsule/arccore": "0.3.5"
+        "@encapsule/arccore": "0.3.6"
     },
     "repository": {
         "type": "git",

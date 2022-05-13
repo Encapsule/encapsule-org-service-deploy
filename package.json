@@ -1,17 +1,17 @@
 {
-  "appgen": "@encapsule/holistic v0.3.5 snowmelt ZXh60hHOSDCLp15IWZj6sQ 3dc5903a7448efde3cec0a50edad661456993836 2022-04-25T21:17:32.000Z",
+  "appgen": "@encapsule/holistic v0.3.5 snowmelt q5C8_UzLS4WT2TVWrNsd7Q 3dc5903a7448efde3cec0a50edad661456993836 2022-05-13T16:30:44.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-04-25T21:20:45.000Z",
-  "buildID": "5AlyBoViQTiAdS6oWwaVVw",
-  "buildSource": "9c50dca262d7ef16db4f934646eeafeef8ee185e",
-  "buildTime": 1650921645,
-  "codename": "setup13",
+  "buildDateISO": "2022-05-13T16:37:08.000Z",
+  "buildID": "_DuHuaRxRnaagkfJWwa_Lg",
+  "buildSource": "cdb755339870e4d09d56eb6e31d130cbc0c2696f",
+  "buildTime": 1652459828,
+  "codename": "setup14",
   "copyright": {
     "holder": "Encapsule",
     "year": 2022
   },
   "dependencies": {
-    "@encapsule/arccore": "0.3.5",
+    "@encapsule/arccore": "0.3.6",
     "@encapsule/d2r2": "file:./HOLISTIC/PACKAGES/d2r2",
     "@encapsule/d2r2-components": "file:./HOLISTIC/PACKAGES/d2r2-components",
     "@encapsule/holarchy": "file:./HOLISTIC/PACKAGES/holarchy",
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.13"
+  "version": "0.0.14"
 }
