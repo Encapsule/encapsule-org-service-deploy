@@ -1,11 +1,11 @@
 {
-  "appgen": "@encapsule/holistic v0.3.5 snowmelt q5C8_UzLS4WT2TVWrNsd7Q 3dc5903a7448efde3cec0a50edad661456993836 2022-05-13T16:30:44.000Z",
+  "appgen": "@encapsule/holistic v0.4.0 verdant u26xmkB5Q26IJEr98ICZZA 3313e1084628ae14be71d1796d1c006e6274943f 2022-05-13T18:04:22.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-05-13T16:37:08.000Z",
-  "buildID": "_DuHuaRxRnaagkfJWwa_Lg",
+  "buildDateISO": "2022-05-13T18:47:43.000Z",
+  "buildID": "rF37mOeCSUapePkBen1fGg",
   "buildSource": "cdb755339870e4d09d56eb6e31d130cbc0c2696f",
-  "buildTime": 1652459828,
-  "codename": "setup14",
+  "buildTime": 1652467663,
+  "codename": "setup15",
   "copyright": {
     "holder": "Encapsule",
     "year": 2022
@@ -30,8 +30,8 @@
     "is-reachable": "5.0.0",
     "pg": "8.6.0",
     "query-string": "^6.2.0",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
     "react-markdown": "^2.5.0",
     "request": "^2.88.0"
   },
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.14"
+  "version": "0.0.15"
 }
