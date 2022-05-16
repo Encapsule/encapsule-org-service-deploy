@@ -1,11 +1,11 @@
 {
-  "appgen": "@encapsule/holistic v0.4.0 verdant u26xmkB5Q26IJEr98ICZZA 3313e1084628ae14be71d1796d1c006e6274943f 2022-05-13T18:04:22.000Z",
+  "appgen": "@encapsule/holistic v0.4.2 crystalglacier 3zTF6RHoQZ6jA5KIv80QPA d1d8d11a84b04584fd9dd174c6440cc6be1f9a71 2022-05-16T20:59:36.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-05-13T18:47:43.000Z",
-  "buildID": "rF37mOeCSUapePkBen1fGg",
-  "buildSource": "cdb755339870e4d09d56eb6e31d130cbc0c2696f",
-  "buildTime": 1652467663,
-  "codename": "setup15",
+  "buildDateISO": "2022-05-16T21:08:48.000Z",
+  "buildID": "cZcjMichQLynixNIACp4Mw",
+  "buildSource": "558dfa938713eb7c944052ff91b9b2fc5d1127aa",
+  "buildTime": 1652735328,
+  "codename": "crystalglacier",
   "copyright": {
     "holder": "Encapsule",
     "year": 2022
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.15"
+  "version": "0.0.16"
 }
