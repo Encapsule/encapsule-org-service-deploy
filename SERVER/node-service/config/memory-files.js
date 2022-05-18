@@ -21,6 +21,16 @@
 
     var clientAppCSSURI = "/css/viewpath5-".concat(appBuild.app.buildID, ".css");
     var memoryFileRegistrationMap = {
+      "ASSETS/css/encapsule-org-base-styles.css": {
+        request_bindings: {
+          method: "GET",
+          uris: ["/css/encapsule-org-base-styles.css"]
+        },
+        response_properties: {
+          contentEncoding: "utf8",
+          contentType: "text/css"
+        }
+      }
       /*
       "ASSETS/css/viewpath5.css": {
           request_bindings: { method: "GET", uris: [ clientAppCSSURI ] },
@@ -236,6 +246,7 @@
           response_properties: { contentEncoding: "utf8", contentType: "image/svg+xml" }
       },
        */
+
     };
     return {
       error: null,

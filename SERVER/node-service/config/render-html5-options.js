@@ -3,7 +3,7 @@
 var appBuild = require("../../../app-build");
 
 module.exports = {
-  documentPrologueComments: "  <!-- This HTML5 document was synthesized by one of our Node.js backend servers.... -->\n",
-  documentHeadSectionLinksMeta: "    <!-- ^--- Resources common to all holistic applications. v--- Resources specific to Encapsule.io application. -->\n",
-  documentEpilogueComments: "    <!-- Live long and prosper. -->\n"
+  documentPrologueComments: "  <!-- This HTML5 document was synthesized by a HolisticNodeService cell process. -->\n",
+  documentEpilogueComments: "    <!-- Live long and prosper. -->\n",
+  documentHeadSectionLinksMeta: "\n    <!-- Encapsule.org specific resource includes -->\n    <link rel=\"stylesheet\" href=\"/css/encapsule-org-base-styles.css\">\n"
 };

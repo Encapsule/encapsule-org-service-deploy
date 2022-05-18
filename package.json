@@ -1,10 +1,10 @@
 {
   "appgen": "@encapsule/holistic v0.4.3 corkscomb IEh1gXOfSuyuC8nNBmbOCw d1d8d11a84b04584fd9dd174c6440cc6be1f9a71 2022-05-17T17:10:41.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-05-17T19:19:07.000Z",
-  "buildID": "LGo5aiMMQdS0gkvorfaKGw",
-  "buildSource": "14979683d50536ceab7b9f3b7d8a26064cdcef5d",
-  "buildTime": 1652815147,
+  "buildDateISO": "2022-05-18T19:40:37.000Z",
+  "buildID": "-twMUt2SQdWIF-GR769SeA",
+  "buildSource": "c1658543585b57455c4e466a156b1f68b4193a94",
+  "buildTime": 1652902837,
   "codename": "corkscomb",
   "copyright": {
     "holder": "Encapsule",
@@ -35,15 +35,15 @@
     "react-markdown": "^2.5.0",
     "request": "^2.88.0"
   },
-  "description": "The 'encapsule-project-service-image' npm package contains a self-contained runtime image of the 'encapsule-project' holistic application service. See the included README.md for additional information.",
+  "description": "The 'encapsule-org-service-image' npm package contains a self-contained runtime image of the 'encapsule-org' holistic application service. See the included README.md for additional information.",
   "engines": {
     "node": ">=16.13.1",
     "npm": ">=8.1.2"
   },
   "license": "AGPL-3.0-or-later",
-  "name": "encapsule-project-service-image",
+  "name": "encapsule-org-service-image",
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.17"
+  "version": "0.0.18"
 }

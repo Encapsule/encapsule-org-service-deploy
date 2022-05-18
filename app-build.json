@@ -1,8 +1,8 @@
 {
   "app": {
-    "name": "encapsule-project",
+    "name": "encapsule-org",
     "description": "Encapsule Project documentation and experiments website based on vLatest @encapsule/holistic that is deployed on Digital Ocean at https://encapsule.io.",
-    "version": "0.0.17",
+    "version": "0.0.18",
     "codename": "corkscomb",
     "author": "Encapsule",
     "copyright": {
@@ -10,10 +10,10 @@
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "LGo5aiMMQdS0gkvorfaKGw",
-    "buildSource": "14979683d50536ceab7b9f3b7d8a26064cdcef5d",
-    "buildTime": 1652815147,
-    "buildDateISO": "2022-05-17T19:19:07.000Z"
+    "buildID": "-twMUt2SQdWIF-GR769SeA",
+    "buildSource": "c1658543585b57455c4e466a156b1f68b4193a94",
+    "buildTime": 1652902837,
+    "buildDateISO": "2022-05-18T19:40:37.000Z"
   },
   "platform": {
     "app": {
