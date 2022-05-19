@@ -1,11 +1,11 @@
 {
-  "appgen": "@encapsule/holistic v0.4.3 corkscomb WfHhH3h_QiShac_2xxwWUQ 324e693028c10d256465eb3e525335b09857fa66 2022-05-19T18:01:09.000Z",
+  "appgen": "@encapsule/holistic v0.4.4 colfaxpeak q6UGbcD4SKiQ5TPGBvk_eQ 62ac0c7374f9ed807a74622f7488322f038d851d 2022-05-19T20:28:16.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-05-19T18:25:51.000Z",
-  "buildID": "TRqp7rNQTwG420tFjPq8hQ",
-  "buildSource": "d874225db2b8de2fea63038153bc91430ee7bb1f",
-  "buildTime": 1652984751,
-  "codename": "corkscomb-test",
+  "buildDateISO": "2022-05-19T20:33:24.000Z",
+  "buildID": "km6id3-2RqCu1y36yhmbPw",
+  "buildSource": "97e344fca5621ec4edcba996c5991be9c4e8ec15",
+  "buildTime": 1652992404,
+  "codename": "colfaxpeak-test",
   "copyright": {
     "holder": "Encapsule",
     "year": 2022
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.22"
+  "version": "0.0.23"
 }
