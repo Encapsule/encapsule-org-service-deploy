@@ -1,10 +1,10 @@
 {
   "appgen": "@encapsule/holistic v0.4.3 corkscomb 9CoRstn3Sda_Daa8krHsxA 324e693028c10d256465eb3e525335b09857fa66 2022-05-18T20:26:57.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-05-19T06:38:25.000Z",
-  "buildID": "25QZqMDxToOSBBFXvrCV-Q",
-  "buildSource": "127c47ef13dc19d51d6d8531e594770bf27e25af",
-  "buildTime": 1652942305,
+  "buildDateISO": "2022-05-19T06:58:13.000Z",
+  "buildID": "bDcxYP6wTJavJnjpvy4Enw",
+  "buildSource": "989efb3b2fb6650c6d22bc39eeafa394166ad283",
+  "buildTime": 1652943493,
   "codename": "corkscomb",
   "copyright": {
     "holder": "Encapsule",
@@ -45,5 +45,5 @@
   "scripts": {
     "start": "node ./SERVER/nodejs-service-runtime.js"
   },
-  "version": "0.0.19"
+  "version": "0.0.20"
 }
