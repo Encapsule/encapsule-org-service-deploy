@@ -2,18 +2,18 @@
   "app": {
     "name": "encapsule-org",
     "description": "Encapsule Project documentation and experiments website based on vLatest @encapsule/holistic that is deployed on Digital Ocean at https://encapsule.io.",
-    "version": "0.0.21",
-    "codename": "corkscomb",
+    "version": "0.0.22",
+    "codename": "corkscomb-test",
     "author": "Encapsule",
     "copyright": {
       "holder": "Encapsule",
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "wFPdATNWSWGCSSR-4aPIGA",
-    "buildSource": "02e73b66a9f80ad28e8a4ff9f4e36417793147e6",
-    "buildTime": 1652945324,
-    "buildDateISO": "2022-05-19T07:28:44.000Z"
+    "buildID": "TRqp7rNQTwG420tFjPq8hQ",
+    "buildSource": "d874225db2b8de2fea63038153bc91430ee7bb1f",
+    "buildTime": 1652984751,
+    "buildDateISO": "2022-05-19T18:25:51.000Z"
   },
   "platform": {
     "app": {
@@ -23,10 +23,10 @@
       "codename": "corkscomb",
       "author": "Encapsule",
       "license": "MIT",
-      "buildID": "9CoRstn3Sda_Daa8krHsxA",
+      "buildID": "WfHhH3h_QiShac_2xxwWUQ",
       "buildSource": "324e693028c10d256465eb3e525335b09857fa66",
-      "buildTime": 1652905617,
-      "buildDateISO": "2022-05-18T20:26:57.000Z"
+      "buildTime": 1652983269,
+      "buildDateISO": "2022-05-19T18:01:09.000Z"
     },
     "data": {
       "name": "arccore",
