@@ -1,4 +1,4 @@
-"use strict"; // @viewpath/viewpath5/SOURCES/SERVER/holism/services/get-user-logout-service.js
+"use strict";
 
 var holism = require("@encapsule/holism");
 

@@ -602,7 +602,7 @@ var factoryResponse = holism.service.create({
 
                             var orgProfileMembersMapID = calcOrgProfileMembersMapId(orgID);
                             var orgProfileMembersMapResult = searchQueryResults(orgProfileMembersMapID); // If this finds a result, we use the version number only.
-                            // Construct a Promise to create a map of userEmailAddresses to viewpathUserIds for an org by streaming all UserProfile entities.
+                            // Construct a Promise to create a map of userEmailAddresses to appUserIds for an org by streaming all UserProfile entities.
 
                             var userProfileQueryStreamPromise = new Promise(function (resolve, reject) {
                               var query;
@@ -632,7 +632,7 @@ var factoryResponse = holism.service.create({
                               try {
                                 transaction_.runQueryStream(query).on("data", function (userProfileEntity) {
                                   if (_updateResult3.definition["R6DTqieiQ8Wr5wo9tI0lJA_OrgProfile"].members.includes(userProfileEntity.userEmailAddress)) {
-                                    membersMap[userProfileEntity.userEmailAddress] = userProfileEntity.viewpathUserId;
+                                    membersMap[userProfileEntity.userEmailAddress] = userProfileEntity.appUserId;
                                   }
                                 }).on("end", function () {
                                   return resolve(membersMap);

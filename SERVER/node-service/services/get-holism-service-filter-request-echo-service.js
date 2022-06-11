@@ -1,4 +1,4 @@
-"use strict"; // @viewpath/viewpath5/SOURCES/SERVER/holism/services/get-holism-service-filter-request-echo-service.js
+"use strict";
 
 var holism = require("@encapsule/holism");
 

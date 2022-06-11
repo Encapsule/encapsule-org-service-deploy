@@ -1,4 +1,4 @@
-"use strict"; // @viewpath/viewpath5/SOURCES/SERVER/holism/services/google-oauth2/extract-user-data-from-people-api-response-filter.js
+"use strict";
 
 var arccore = require("@encapsule/arccore");
 

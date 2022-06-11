@@ -1,10 +1,10 @@
 {
-  "appgen": "@encapsule/holistic v0.4.4 colfaxpeak q6UGbcD4SKiQ5TPGBvk_eQ 62ac0c7374f9ed807a74622f7488322f038d851d 2022-05-19T20:28:16.000Z",
+  "appgen": "@encapsule/holistic v0.4.4 colfaxpeak cOPp4PdPRXKyaPt5tQTCqQ e2ac2697de97dbe7b68722e9de19e7f6d6e282cc 2022-06-11T19:59:25.000Z",
   "author": "Encapsule",
-  "buildDateISO": "2022-05-29T15:02:15.000Z",
-  "buildID": "28dhgqAwRyeEGUlkpASoBg",
-  "buildSource": "9c736284b83b9c9c3c4ffec7b5f1986393cee94d",
-  "buildTime": 1653836535,
+  "buildDateISO": "2022-06-11T21:00:54.000Z",
+  "buildID": "br39IMf8Ri-nFHflMfwa6Q",
+  "buildSource": "ccf2fe3c6c864ccd7b831623ab36b382e1f4238a",
+  "buildTime": 1654981254,
   "codename": "colfaxpeak-test1",
   "copyright": {
     "holder": "Encapsule",
