@@ -2,18 +2,18 @@
   "app": {
     "name": "encapsule-org",
     "description": "Encapsule Project documentation and experiments website based on vLatest @encapsule/holistic that is deployed on Digital Ocean at https://encapsule.io.",
-    "version": "0.0.23",
-    "codename": "colfaxpeak-test",
+    "version": "0.0.24",
+    "codename": "colfaxpeak-test1",
     "author": "Encapsule",
     "copyright": {
       "holder": "Encapsule",
       "year": 2022
     },
     "license": "AGPL-3.0-or-later",
-    "buildID": "km6id3-2RqCu1y36yhmbPw",
-    "buildSource": "97e344fca5621ec4edcba996c5991be9c4e8ec15",
-    "buildTime": 1652992404,
-    "buildDateISO": "2022-05-19T20:33:24.000Z"
+    "buildID": "28dhgqAwRyeEGUlkpASoBg",
+    "buildSource": "9c736284b83b9c9c3c4ffec7b5f1986393cee94d",
+    "buildTime": 1653836535,
+    "buildDateISO": "2022-05-29T15:02:15.000Z"
   },
   "platform": {
     "app": {
